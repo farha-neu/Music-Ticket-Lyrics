@@ -7,7 +7,7 @@
 <p>Furthermore, you can also search the top trending tracks by genre with the convenientaly provided options on the search form and play their music videos directly from the site as well. Once you have decided which artist you would like to easily access again, you can save them to our favorites section! Click the pulsating heart at the top right corner of the artists information and find your favorites at the top right of the page.</p>
 
 <h3>Deployment</h3>
-Check out our live Website: https://tluczak112.github.io/project_1/
+Check out our live Website: https://farha-neu.github.io/Music-Ticket-Lyrics/
 </br>
 <h3>Built with:</h3>
 <ul>
