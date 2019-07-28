@@ -11,7 +11,8 @@ body {
     text-align: center;
     background-size: cover;
     height: 100vh;
-    display:table; 
+    display:table;
+    background-color: black;
 }
 
 .st0{fill:none;}
